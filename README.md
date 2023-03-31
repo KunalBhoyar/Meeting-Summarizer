@@ -17,7 +17,7 @@
 
 >[Access the Codelabs document here](https://codelabs-preview.appspot.com/?file_id=1SEi8ikIKdam7rGkrpgA9t3GV4huxh9iXrSGEPVBKiS8#2) 🚀 <br>
 
-> [🚀 Application link](https://bigdataia-spring2023-team-10-assignment-4-streamlitmain-1cxpuj.streamlit.app/) <br>
+> [🚀 Application link](https://bigdataia-spring2023-team-10-assignment-4-streamlitmain-v28b4d.streamlit.app/) <br>
 
 
 
